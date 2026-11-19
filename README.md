@@ -1,17 +1,23 @@
 
+
 # Hi, I'm Javier! 👋
 
 **Javier Jerez Reinoso**  
 Computer Science Engineer | Erasmus Mundus MSc in Imaging
 
-🇪🇸 **Madrid** → 🇸🇪 **Sundsvall** → 🇫🇮 **Tampere**
-
 Interested in **Computer Vision, Image Processing & Robotics** — building systems that perceive, understand and interact with the world.
 
-### 📫 Get in Touch
+### 🌍 My journey so far
 
-- 💼 [LinkedIn](TU_URL_DE_LINKEDIN)
-- ✉️ [Email](mailto:TU_CORREO)
+| 🇪🇸 Madrid | 🇮🇪 Dublin | 🇸🇪 Sundsvall | 🇫🇮 Tampere |
+| :---: | :---: | :---: | :---: |
+| Computer Science | Erasmus at TCD | MSc · Year 1 | MSc · Year 2 |
+| 2021–2025 | 2023 | 2025–2026 | 2026–2027 |
+
+### 📫 Get in touch
+
+[LinkedIn](www.linkedin.com/in/javier-jerez-reinoso) · [Email](mailto:javjerez.r@gmail.com)
+
 
 
 <!--
