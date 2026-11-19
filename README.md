@@ -1,16 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/vision-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/vision-light.svg">
-  <img align="right" width="100" alt="Computer vision detection illustration" src="assets/vision-light.svg">
-</picture>
-
-# Hi, I'm Javier!
+# Hola, I'm Javier!
 
 **Javier Jerez Reinoso**  
 Computer Science Engineer  
 Erasmus Mundus MSc in Imaging
 
-Interested in **Computer Vision, Image Processing & Robotics** - building systems that perceive, understand and interact with the world.
+Interested in Computer Vision, Image Processing & Robotics - building systems that perceive, understand and interact with the world.
 
 ---
 
